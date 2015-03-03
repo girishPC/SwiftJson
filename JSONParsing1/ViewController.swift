@@ -36,6 +36,8 @@ class ViewController: UIViewController {
             }
             
             
+            //This is not working
+            
 //            let message = responseDict["message"] as NSString
 //            let value = responseDict["value"] as Int
 //            println("\(message) \(value)")
