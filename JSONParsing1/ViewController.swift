@@ -34,13 +34,7 @@ class ViewController: UIViewController {
             for (key, value) in jsonResult2 {
                 println("\(key) -> \(value)")
             }
-            
-            
-            //This is not working
-            
-//            let message = responseDict["message"] as NSString
-//            let value = responseDict["value"] as Int
-//            println("\(message) \(value)")
+
             
         })
         
