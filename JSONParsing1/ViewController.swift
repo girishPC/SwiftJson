@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     @IBOutlet weak var dateLabel: UILabel!
 
+    /** hello this is to check github **/
     @IBOutlet weak var timeLabel: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
